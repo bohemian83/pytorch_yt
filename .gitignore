@@ -1,2 +1,4 @@
 /pytorch_venv/*
+.pyc
 /models
+/__pycache__
