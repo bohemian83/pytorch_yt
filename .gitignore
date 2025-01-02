@@ -4,3 +4,5 @@
 /__pycache__
 /data
 /going_modular/__pycache__
+/runs
+.DS_Store
